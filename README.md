@@ -121,8 +121,8 @@ model.predict(test_input)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/cat-vs-dog-cnn.git
-cd cat-vs-dog-cnn
+git clone git clone https://github.com/YogeshKumar-0/ML-Project.git
+cd ML-Project
 ```
 
 ### 2. Set up Kaggle API
